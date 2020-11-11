@@ -5,4 +5,5 @@ This script (application), attempts to retrieve all items matched to a certain q
 <h3>Authors:</h3>
 
 <b>- Shane Kelly</b>
+<br>
 <b>- Ross MacDonald (github.com/RossmacD)</b>

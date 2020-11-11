@@ -6,4 +6,7 @@ This script (application), attempts to retrieve all items matched to a certain q
 
 <i>- Shane Kelly</i>
 <br>
-<i>- Ross MacDonald (<a href="https://github.com/RossmacD">github.com/RossmacD</a>)</i>
+<i>- Ross MacDonald (<a href="https://github.com/RossmacD">RossmacD</a>)</i>
+
+<h4>Contributor:</h4>
+<i>- Ultan O'Nuallain (<a href="https://github.com/uelitez">uelitez</a>)</i>
